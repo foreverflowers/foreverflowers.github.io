@@ -2420,7 +2420,7 @@ background-image: linear-gradient(to right, #8624af, #ad1433);
 			-ms-transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
-			background-image: url("../../034.jpg");
+			background-image: url("034.jpg");
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
