@@ -16,6 +16,7 @@
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    padding: 0px;
     display: block;
 	}
 
@@ -1101,10 +1102,7 @@
 		}
 
 		.wrapper > header.special {
-    padding-top: 4rem;
-    padding-right: 2rem;
-    padding-left: 2rem;
-    padding-bottom: 2.5rem;
+
 		}
 
 			@media screen and (max-width: 980px) {
@@ -1140,7 +1138,10 @@
 			.wrapper.style1 .content {
     padding: 4rem;
     color: #000000;
-    margin-bottom: 30px;
+    /* [disabled]margin-bottom: 30px; */
+    /* [disabled]margin-left: auto; */
+    /* [disabled]margin-right: auto; */
+    margin-top: 50px;
 			}
 
 		}
@@ -1188,7 +1189,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.wrapper.style2 {
-				padding: 4rem;
+    /* [disabled]padding: 4rem; */
 				
 			}
 			
