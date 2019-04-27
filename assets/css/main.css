@@ -965,7 +965,7 @@
 			-ms-transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
-			background-image: url("033.jpg");
+			background-image: url("../../images/033.jpg");
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
